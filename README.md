@@ -20,7 +20,7 @@
 
 #### Ссылка на страницу со слайдером:
 
-+ https://paramonovivan.github.io/Slider_PJ-04/
++ https://paramonovivan.github.io/PJ-04_Slider/
 
 #### Внешний вид страницы со слайдером</b>
 
